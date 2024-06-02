@@ -2,8 +2,6 @@ import my_token
 import pandas as pd
 from tinkoff.invest import Client
 from tinkoff.invest.schemas import GetAssetFundamentalsRequest
-# from tabulate import tabulate
-# from pprint import pprint
 from class_db import *
 import time
 import sqlite3
